@@ -11,7 +11,7 @@ from selenium.webdriver.common.keys import Keys
 
 # create HandLandmarker with model asset (task file) and VIDEO running mode
 options = mp_v.HandLandmarkerOptions(
-    base_options=BaseOptions(model_asset_path=r"C:\Users\hp226f\PycharmProjects\PythonProject\hand_landmarker.task"),
+    base_options=BaseOptions(model_asset_path=r"path"),
     num_hands=1,
     min_hand_detection_confidence=0.5)
 
