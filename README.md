@@ -17,3 +17,5 @@ This project uses a webcam and MediaPipe hand landmark detection to control the 
   - 5 fingers — mouse movement (moves cursor by scaled difference in hand position)
 - <b>Contains a commented-out Selenium block demonstrating opening Edge and performing a Google search when right hand ponter and middle finger is crossed.</b>
 - <b>Press q in frame to quit.</b>
+
+<img width="1425" height="1106" alt="image" src="https://github.com/user-attachments/assets/8b6d745c-da36-4e16-9fae-a8e67e35fb72" />
